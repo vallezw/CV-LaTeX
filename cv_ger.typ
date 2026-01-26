@@ -7,7 +7,7 @@
     email: "vallezw@gmail.com",
     github: "vallezw",
     linkedin: "vallezw",
-    homepage: "vallezw.com"
+    homepage: "vallezw.com",
   ),
 )
 
@@ -18,14 +18,14 @@
 
 = Bildung
 #cv-entry(
-  date: [2024 -- 2025],
-  title: [B.Sc. Mathematics],
-  employer: [Technische Universität München (TUM)],
+  date: [2025 -- 2030],
+  title: [Mathematik B.Sc sowie LAG],
+  employer: [Ludwig-Maximilians-Universität],
 )
 #cv-entry(
-  date: [2024 -- 2025],
-  title: [B.Sc. Computer Science],
-  employer: [Technische Universität München (TUM)],
+  date: [2025 -- 2030],
+  title: [Musik Lehramt für Gymnasium (LAG)],
+  employer: [Hochschule für Musik und Theater München],
 )
 #cv-entry(
   date: [2016 -- 2024],
@@ -47,22 +47,22 @@
 #cv-entry(
   date: [2022],
   employer: [1ste Runde: 3ter Preis],
-  title: [Bundeswettbewerb Mathematik (BwMa)], 
+  title: [Bundeswettbewerb Mathematik (BwMa)],
 )
 #cv-entry(
   date: [2020],
   employer: [1ste, 2te, 3te Runde: 1ster Preis],
-  title: [Jugend Wettbewerb Informatik (JwInf)], 
+  title: [Jugend Wettbewerb Informatik (JwInf)],
 )
 #cv-entry(
   date: [2019],
   employer: [1ster Preis],
-  title: [Biber Wettbewerb], 
+  title: [Biber Wettbewerb],
 )
 
-= Erfahrung
+= Berufs Erfahrung
 #cv-entry(
-  date: [2023 -- 2024],
+  date: [2023 -- jetzt],
   employer: [QuantCo],
   title: [Werkschüler],
   [#linebreak()#text(10pt, "Full-Stack Development (15 Stunden p.W.)")],
@@ -85,7 +85,7 @@
 // ][
 //   Linux, React, React Native, TailwindCSS
 //   Express.js, Flask, Docker, Git, GitHub Actions,
-//   CI/CD, 
+//   CI/CD,
 // ]
 
 = Sprachen
@@ -95,5 +95,5 @@
 
 = Hobbies
 
-#cv-list-double-item[OSS Programmierung][Klavier]
-#cv-list-item[Ski, Fitness, Fahrradfahren]
+#cv-list-double-item[Ski, Fitness, Fahrradfahren][Klavier]
+

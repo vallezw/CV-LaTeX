@@ -1,12 +1,12 @@
 #import "@preview/moderner-cv:0.1.0": *
 
 #show link: underline
-  
-  
+
+
 #set page(
- width: 3cm,
- height: 4cm,
- margin: (x: 1pt, y: 4pt),
+  width: 3cm,
+  height: 4cm,
+  margin: (x: 1pt, y: 4pt),
 )
 
 #show: moderner-cv.with(
@@ -17,7 +17,7 @@
     github: "vallezw",
     linkedin: "vallezw",
     homepage: "vallezw.com",
-  )
+  ),
 )
 
 = Personal Information
@@ -53,12 +53,12 @@
 #cv-entry(
   date: [2022],
   employer: [1st round: 3rd price],
-  title: [Federal Mathematics Competition (BwMa)], 
+  title: [Federal Mathematics Competition (BwMa)],
 )
 #cv-entry(
   date: [2020],
   employer: [1st, 2nd, 3rd round: 1st price],
-  title: [Computer Science Youth Competition (JwInf)], 
+  title: [Computer Science Youth Competition (JwInf)],
 )
 
 = Experience
@@ -80,12 +80,12 @@
 #cv-entry(
   date: [2022-2023],
   employer: [is a music sheets organizer software. It includes a tablet app for iPadOS/Android and a webapp + server written with React and Golang (#link("https://sheetable.net")[sheetable.net])],
-  title: [#link("https://sheetable.net")[SheetAble]], 
+  title: [#link("https://sheetable.net")[SheetAble]],
 )
 #cv-entry(
   date: [2022-2024],
   employer: [More projects can be found on my #link("github.com/vallezw")[GitHub] (github.com/vallezw)],
-  title: [More Projects], 
+  title: [More Projects],
 )
 
 
@@ -93,11 +93,11 @@
 #cv-double-item[
   Languages
 ][
-  TypeScript/JavaScript, Go, Python, Java, SQL, Bash, Typst
+  TypeScript/JavaScript, Go, Python, Java, Typst
 ][
   Technologies
 ][
-  Linux, React, React Native, TailwindCSS, Elysia.js, Drizzle, Docker, Git, GitHub Actions
+  Linux, React (and native), TailwindCSS, Elysia.js, hono, Docker, Git, GitHub Actions
 ]
 
 = Languages
